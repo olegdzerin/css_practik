@@ -1,0 +1,19 @@
+{
+  "name": "css_practik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegdzerin/css_practik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olegdzerin/css_practik/issues"
+  },
+  "homepage": "https://github.com/olegdzerin/css_practik#readme"
+}
